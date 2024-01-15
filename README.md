@@ -11,7 +11,7 @@
 - **Real-Time Processing and Analysis**: Capable of processing input data in real-time for immediate risk scoring and decision-making.
 
 ## How to Use
-1. **Access the App**: Go to [Load-Default-Risk-Control](https://load-default-risk-control.streamlit.app/) on the Streamlit Community Cloud.
+1. **Access the App**: Go to [Load-Default-Risk-Control](https://loan-default-risk-control-st.streamlit.app/) on the Streamlit Community Cloud.
 2. **Input Data via Sidebar**: Use the sidebar to input loan-related information such as loan amount, term, grade, annual income, and other financial details.
 3. **Submit for Risk Assessment**: After data input, the app processes the information using the scorecard model and computes a risk score.
 4. **Automated Loan Decision**:
