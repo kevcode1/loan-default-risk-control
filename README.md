@@ -21,6 +21,6 @@
 5. **View Assessment Summaries**: Navigate to a separate page within the app to view all assessment summaries and comprehensive results.
 
 ## Technical Details
-- **Built With**: Developed using Python, featuring libraries like Pandas, NumPy, joblib for data handling, machine learning operations, and Plotly for interactive visualizations.
+- **Built With**: Developed using Python, featuring libraries like Pandas, NumPy, scikit-learn for data handling, machine learning operations, and Plotly for interactive visualizations.
 - **Scorecard Model**: Integrates logistic regression for calculating risk scores, which are essential for automated decision-making.
 - **Dynamic Data Processing**: Implements efficient feature engineering and real-time data processing for immediate risk analysis.
