@@ -1,5 +1,5 @@
 # Loan-Default-Risk-Control
-
+[中文](README_CN.md)
 ## Introduction
 "Loan-Default-Risk-Control" is a sophisticated Streamlit web application focused on loan default risk management. This app features an advanced logistic regression scorecard model for the automated evaluation of loan default risks, enabling efficient, data-driven decisions in financial risk assessment.
 
