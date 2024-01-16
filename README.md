@@ -1,7 +1,7 @@
-# Load-Default-Risk-Control
+# Loan-Default-Risk-Control
 
 ## Introduction
-"Load-Default-Risk-Control" is a sophisticated Streamlit web application focused on loan default risk management. This app features an advanced logistic regression scorecard model for the automated evaluation of loan default risks, enabling efficient, data-driven decisions in financial risk assessment.
+"Loan-Default-Risk-Control" is a sophisticated Streamlit web application focused on loan default risk management. This app features an advanced logistic regression scorecard model for the automated evaluation of loan default risks, enabling efficient, data-driven decisions in financial risk assessment.
 
 ## Key Features
 - **Automated Risk Score Assessment**: Utilizes a logistic regression scorecard for quick and accurate risk evaluations.
@@ -11,7 +11,7 @@
 - **Real-Time Processing and Analysis**: Capable of processing input data in real-time for immediate risk scoring and decision-making.
 
 ## How to Use
-1. **Access the App**: Go to [Load-Default-Risk-Control](https://loan-default-risk-control-st.streamlit.app/) on the Streamlit Community Cloud.
+1. **Access the App**: Go to [Loan-Default-Risk-Control](https://loan-default-risk-control-st.streamlit.app/) on the Streamlit Community Cloud.
 2. **Input Data via Sidebar**: Use the sidebar to input loan-related information such as loan amount, term, grade, annual income, and other financial details.
 3. **Submit for Risk Assessment**: After data input, the app processes the information using the scorecard model and computes a risk score.
 4. **Automated Loan Decision**:
